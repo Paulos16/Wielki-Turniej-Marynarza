@@ -60,7 +60,7 @@ Please, type in the port you wish to connect to: 51590
 
 **Każdy gracz przechowuje następujące informacje:**
 * Swoją nazwę, którą przedstawia się podczas rozgrywek,
-* Automatycznie przydzielony numer portu komunikacyjno-nasłuchowego, który jed nocześnie jest jego jednoznacznym identyfikatorem,
+* Automatycznie przydzielony numer portu komunikacyjno-nasłuchowego, który jednocześnie jest jego jednoznacznym identyfikatorem,
 * Adres IP agenta wprowadzającego - jest to adres gracza, z którym połączono się po raz pierwszy,
 * Numer portu agenta wprowadzającego - jest to numer portu, do którego połączono się po raz pierwszy,
 * Listę agentów aktualnie w sieci,
