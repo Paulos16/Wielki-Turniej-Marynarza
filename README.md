@@ -73,3 +73,7 @@ Please, type in the port you wish to connect to: 51590
 Do projektu dołączony jest plik źródłowy GUI.java, który jest niedokończonym fragmentem projektu. Koncepcją było utworzenie przejrzystego i łatwego w obsłudze graficznego interfejsu, który pozwalałby na pełną kontrolę agenta, wgląd do tablicy wyników rozgrywek, stały dostęp do wszystkich agentów w sieci oraz samodzielne wysyłanie komunikatów za pomocą wybrania agenta z sieci i naciśnięcia przycisku odpowiadającemu komunikatowi.
 
 W projekcie przyjęto zgodność typów wprowadzanych przez użytkownika z oczekiwanymi przez program.
+
+---
+
+[Kod zaprojektowany i napisany przez Pawła Saniewskiego](https://www.linkedin.com/in/pawelsaniewski/)
